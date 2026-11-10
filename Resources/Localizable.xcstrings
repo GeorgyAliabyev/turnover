@@ -20749,7 +20749,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Штора экрана"
+            "value" : "Затемнение экрана"
           }
         }
       }
@@ -20766,7 +20766,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Штора экрана вкл. или выкл. (VO-Shift-F11)"
+            "value" : "Затемнение экрана вкл. или выкл. (VO-Shift-F11)"
           }
         }
       }
@@ -20783,7 +20783,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Штора экрана вкл. или выкл.: экран становится чёрным, а TurnOver читает как обычно (NVDA+Control+Escape)"
+            "value" : "Затемнение экрана вкл. или выкл.: экран становится чёрным, а TurnOver читает как обычно (NVDA+Control+Escape)"
           }
         }
       }
@@ -20800,7 +20800,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Штора экрана вкл. или выкл.: экран становится чёрным, а TurnOver читает как обычно (VO-Shift-Fn-подчёркивание)"
+            "value" : "Затемнение экрана вкл. или выкл.: экран становится чёрным, а TurnOver читает как обычно (VO-Shift-Fn-подчёркивание)"
           }
         }
       }
@@ -20816,7 +20816,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Штора экрана, пока TurnOver читает"
+            "value" : "Затемнение экрана, пока TurnOver читает"
           }
         }
       }
@@ -32755,7 +32755,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "группировка"
+            "value" : "группа"
           }
         }
       }
@@ -39614,7 +39614,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "штора экрана выключена"
+            "value" : "затемнение экрана выключено"
           }
         }
       }
@@ -39631,7 +39631,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "штора экрана включена"
+            "value" : "затемнение экрана включено"
           }
         }
       }
